@@ -6,9 +6,9 @@ color:
   saturation: 0.29273494868539274
   rhythmicContrast: 0.9773149378597736
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: EIO
