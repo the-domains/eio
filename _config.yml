@@ -1,0 +1,14 @@
+layout_spectrum: 0.6213328593876213
+typography_spectrum: 0.5442554210312665
+color:
+  brandStrength: 0.007239482598379254
+  lightness: 0.554708887822926
+  saturation: 0.29273494868539274
+  rhythmicContrast: 0.9773149378597736
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: EIO
